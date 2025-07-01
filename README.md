@@ -10,5 +10,5 @@
 
 <br> Also on HTB & CD
 <br>
-<p><a href="https://app.hackthebox.com/profile/233908"><img src="https://www.hackthebox.com/badge/image/233908"  alt="One of your extensions broke this (likely NoScript  or PrivacyBadger"><a href="https://cyberdefenders.org/p/Th0nkPT"><br><img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Th0nkPT.png" width="220"/></a></p>
+<p><a href="https://app.hackthebox.com/profile/233908"><img src="https://www.hackthebox.com/badge/image/233908"  alt="One of your extensions broke this (likely NoScript  or PrivacyBadger"><a href="https://cyberdefenders.org/Some1PT"><br><img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Some1PT.png" width="220"/></a></p>
 
