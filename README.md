@@ -2,7 +2,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Some1PT&color=blueviolet&style=flat-square)
 
 
-![MCFPT's Github Stats](https://github-readme-stats.vercel.app/api?username=Some1PT&count_private=true&show_icons=true&theme=radical)
+![some1's Github Stats](https://github-readme-stats.vercel.app/api?username=Some1PT&count_private=true&show_icons=true&theme=radical)
 [![i do](https://github-readme-stats.vercel.app/api/top-langs/?username=Some1PT&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
